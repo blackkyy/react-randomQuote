@@ -4,7 +4,7 @@
 </div>
 
 
-## 🏁 Requirements
+## 🚩 Requirements
 
 * React
 * Git
