@@ -1,0 +1,53 @@
+.text {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.author {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 2rem;
+  font-weight: 500;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.iconWrapper {
+  display: inline-block;
+  background-color: #393e46;
+  cursor: pointer;
+  padding: 0.5rem;
+  height: 1.5rem;
+  border-radius: 8px;
+}
+
+.iconWrapper:hover {
+  opacity: 0.9;
+}
+
+.icon {
+  color: white;
+  width: 1.5rem;
+  height: 1.5rem;
+  margin: 0 auto;
+}
+
+.buttonNew {
+  background-color: #00adb5;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1.2rem;
+}
+
+.buttonNew:hover {
+  opacity: 0.9;
+}
+
+
