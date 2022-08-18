@@ -1,8 +1,7 @@
 <h1 align="center">Random Quote Generator</h1>
 <div align="center">
-  <p>A React App which uses Rest API to show random quotes from famous people</p>
+  <p>FreeCodeCamp challenge</p>
 </div>
-
 
 ## 🚩 Requirements
 
@@ -15,7 +14,7 @@
 Clone the repo and install the dependencies.
 
 ```bash
-https://github.com/blackkyy/react-randomQuote.git
+git clone https://github.com/blackkyy/react-randomQuote.git
 cd react-randomQuote
 ```
 
