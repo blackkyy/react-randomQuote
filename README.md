@@ -15,8 +15,8 @@
 Clone the repo and install the dependencies.
 
 ```bash
-git clone https://github.com/aromalanil/Random-Quote-Generator.git
-cd Random-Quote-Generator
+https://github.com/blackkyy/react-randomQuote.git
+cd react-randomQuote
 ```
 
 ```bash
